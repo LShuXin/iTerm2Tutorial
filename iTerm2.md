@@ -14,13 +14,13 @@ mac系统下的一款非常好用的终端工具，它比系统自带的 Termina
 
 **分屏：command+D**
 
-![https://img2020.cnblogs.com/blog/1510581/202004/1510581-20200421145313983-650938464.png](./clip_image002.png)
+![https://img2020.cnblogs.com/blog/1510581/202004/1510581-20200421145313983-650938464.png](clip_image004.png)
 
   
 
  **多tab：command+t**
 
-![https://img2020.cnblogs.com/blog/1510581/202004/1510581-20200421145443163-1017093556.png](./clip_image003.png)
+![https://img2020.cnblogs.com/blog/1510581/202004/1510581-20200421145443163-1017093556.png](clip_image005.png)
 
  别的后面补充。看上面两个大佬的连接应该可以学习到很多实用技巧。工欲善其事，必先利其器，有必要花时间折腾一下的。
 
